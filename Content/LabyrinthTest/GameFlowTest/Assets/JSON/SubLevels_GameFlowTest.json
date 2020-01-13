@@ -1,0 +1,1 @@
+﻿{"Labyrinth":[{"GameFlowTest_gameflow":{"AreaA":True,"AreaB":True,"AreaC":True}},{"GameFlowTest_map_areaA":{"AreaA":True,"AreaB":True,"AreaC":False}},{"GameFlowTest_map_areaB":{"AreaA":True,"AreaB":True,"AreaC":True}},{"GameFlowTest_map_areaC":{"AreaA":False,"AreaB":True,"AreaC":True}}]}
