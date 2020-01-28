@@ -6,10 +6,19 @@
 #include "GameFramework/GameModeBase.h"
 #include "LBGameModeBase.generated.h"
 
+UENUM(BlueprintType)
+enum class ELBGameVersion : uint8
+{
+	Team,
+	Master,
+	MasterDebug,
+	Core
+};
+
 /**
  * 
  */
-UCLASS()
+UCLASS(BlueprintType)
 class LABYRINTHCORE_API ALBGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
