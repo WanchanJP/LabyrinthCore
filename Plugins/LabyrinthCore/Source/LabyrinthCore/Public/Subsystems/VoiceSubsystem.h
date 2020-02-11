@@ -14,7 +14,7 @@ UCLASS()
 class LABYRINTHCORE_API UVoiceSubsystem : public UGameInstanceSubsystem
 {
 	GENERATED_BODY()
-	
+
 public:
 	UFUNCTION(BlueprintCallable)
 	void Play(const FName Label, const UDataTable* DataTable);

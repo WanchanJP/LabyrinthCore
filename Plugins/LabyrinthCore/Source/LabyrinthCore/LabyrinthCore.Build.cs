@@ -40,7 +40,8 @@ public class LabyrinthCore : ModuleRules
 				"SlateCore",
 				"GameplayTags",
 				"MovieScene",
-				"LevelSequence"
+				"LevelSequence",
+				"UMG"
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
